@@ -1,0 +1,172 @@
+Data Analysis Projects
+Easy (100 Projects)
+1. Analyze a dataset of movie ratings.                  Done
+2. Create a histogram of customer ages.                 Done
+3. Analyze a dataset of car sales.                      Done
+4. Create a bar chart of product sales.                 Done
+5. Analyze a dataset of student grades.                 
+6. Create a pie chart of website traffic sources.       
+7. Analyze a dataset of weather data.
+8. Create a line chart of stock prices.
+9. Analyze a dataset of e-commerce transactions.
+10. Create a scatter plot of housing prices.
+11. Analyze a dataset of social media posts.
+12. Create a box plot of employee salaries.
+13. Analyze a dataset of airline delays.
+14. Create a heatmap of website clicks.
+15. Analyze a dataset of crime rates.
+16. Create a violin plot of customer satisfaction scores.
+17. Analyze a dataset of healthcare costs.
+18. Create a pair plot of iris flower measurements.
+19. Analyze a dataset of election results.
+20. Create a correlation matrix of financial data.
+21. Analyze a dataset of sports statistics.
+22. Create a stacked bar chart of product categories.
+23. Analyze a dataset of energy consumption.
+24. Create a stacked area chart of website traffic.
+25. Analyze a dataset of transportation data.
+26. Create a waterfall chart of financial performance.
+27. Analyze a dataset of retail sales.
+28. Create a funnel chart of customer conversions.
+29. Analyze a dataset of manufacturing data.
+30. Create a Gantt chart of project timelines.
+
+Analyze a dataset of agriculture data.
+
+Create a radar chart of employee performance.
+
+Analyze a dataset of tourism data.
+
+Create a bubble chart of social media engagement.
+
+Analyze a dataset of entertainment data.
+
+Create a 3D plot of geographical data.
+
+Analyze a dataset of environmental data.
+
+Create a contour plot of temperature data.
+
+Analyze a dataset of traffic data.
+
+Create a polar plot of wind direction data.
+
+Analyze a dataset of energy data.
+
+Create a surface plot of elevation data.
+
+Analyze a dataset of transportation data.
+
+Create a network graph of social connections.
+
+Analyze a dataset of retail data.
+
+Create a word cloud of customer reviews.
+
+Analyze a dataset of manufacturing data.
+
+Create a treemap of product sales.
+
+Analyze a dataset of agriculture data.
+
+Create a sunburst chart of website navigation.
+
+Analyze a dataset of tourism data.
+
+Create a chord diagram of relationships.
+
+Analyze a dataset of entertainment data.
+
+Create a Sankey diagram of energy flows.
+
+Analyze a dataset of environmental data.
+
+Create a parallel coordinates plot of multivariate data.
+
+Analyze a dataset of traffic data.
+
+Create a radar chart of employee skills.
+
+Analyze a dataset of energy data.
+
+Create a 3D scatter plot of scientific data.
+
+Analyze a dataset of transportation data.
+
+Create a network graph of internet traffic.
+
+Analyze a dataset of retail data.
+
+Create a word cloud of social media hashtags.
+
+Analyze a dataset of manufacturing data.
+
+Create a treemap of website structure.
+
+Analyze a dataset of agriculture data.
+
+Create a sunburst chart of organizational hierarchy.
+
+Analyze a dataset of tourism data.
+
+Create a chord diagram of musical genres.
+
+Analyze a dataset of entertainment data.
+
+Create a Sankey diagram of customer journeys.
+
+Analyze a dataset of environmental data.
+
+Create a parallel coordinates plot of customer demographics.
+
+Analyze a dataset of traffic data.
+
+Create a radar chart of product features.
+
+Analyze a dataset of energy data.
+
+Create a 3D scatter plot of geological data.
+
+Analyze a dataset of transportation data.
+
+Create a network graph of social media influencers.
+
+Analyze a dataset of retail data.
+
+Create a word cloud of product reviews.
+
+Analyze a dataset of manufacturing data.
+
+Create a treemap of project tasks.
+
+Analyze a dataset of agriculture data.
+
+Create a sunburst chart of website content.
+
+Analyze a dataset of tourism data.
+
+Create a chord diagram of business relationships.
+
+Analyze a dataset of entertainment data.
+
+Create a Sankey diagram of supply chain flows.
+
+Analyze a dataset of environmental data.
+
+Create a parallel coordinates plot of financial metrics.
+
+Analyze a dataset of traffic data.
+
+Create a radar chart of customer preferences.
+
+Analyze a dataset of energy data.
+
+Create a 3D scatter plot of astronomical data.
+
+Analyze a dataset of transportation data.
+
+Create a network graph of collaboration networks.
+
+Analyze a dataset of retail data.
+
+Create a word cloud of news headlines.

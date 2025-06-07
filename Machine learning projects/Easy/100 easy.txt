@@ -1,0 +1,101 @@
+100 Easy Machine Learning Projects
+1. Predict house prices using linear regression.
+2. Classify emails as spam or not spam using Naive Bayes.
+3. Predict student exam scores using simple regression.
+4. Classify handwritten digits using the MNIST dataset.
+5. Predict car prices based on features like mileage and age.
+6. Classify flowers using the Iris dataset.
+7. Predict stock prices using historical data.
+8. Classify movie reviews as positive or negative using sentiment analysis.
+9. Predict bike rental demand using time-series data.
+10. Classify fruits based on their features using decision trees.
+11. Predict the weather using historical weather data.
+12. Classify breast cancer tumors as malignant or benign.
+13. Predict customer satisfaction scores using survey data.
+14. Classify news articles into categories using NLP.
+15. Predict the likelihood of a loan default using logistic regression.
+16. Classify images of cats and dogs using a simple CNN.
+17. Predict the number of COVID-19 cases using time-series data.
+18. Classify music genres based on audio features.
+19. Predict the price of a used car using regression.
+20. Classify tweets as positive, negative, or neutral.
+21. Predict the sales of a product using historical sales data.
+22. Classify handwritten letters using the EMNIST dataset.
+23. Predict the temperature using weather data.
+24. Classify customer reviews as positive or negative.
+25. Predict the likelihood of a customer churning using logistic regression.
+26. Classify images of different types of clothing using the Fashion MNIST dataset.
+27. Predict the number of website visitors using time-series data.
+28. Classify different types of wine using the Wine dataset.
+29. Predict the price of a house based on its location.
+30. Classify different types of animals using the Animals dataset.
+31. Predict the number of passengers on a flight using historical data.
+32. Classify different types of food using the Food-101 dataset.
+33. Predict the price of a stock using historical stock data.
+34. Classify different types of plants using the PlantVillage dataset.
+35. Predict the number of customers in a store using time-series data.
+36. Classify different types of vehicles using the Vehicles dataset.
+37. Predict the price of a product using regression.
+38. Classify different types of birds using the Birds dataset.
+39. Predict the number of sales using historical sales data.
+40. Classify different types of insects using the Insects dataset.
+41. Predict the price of a house based on its size.
+42. Classify different types of fish using the Fish dataset.
+43. Predict the number of users on a website using time-series data.
+44. Classify different types of trees using the Trees dataset.
+45. Predict the price of a car based on its features.
+46. Classify different types of flowers using the Flowers dataset.
+47. Predict the number of customers in a restaurant using time-series data.
+48. Classify different types of fruits using the Fruits dataset.
+49. Predict the price of a house based on its age.
+50. Classify different types of vegetables using the Vegetables dataset.
+51. Predict the number of visitors to a museum using time-series data.
+52. Classify different types of animals using the Animals dataset.
+53. Predict the price of a product based on its features.
+54. Classify different types of birds using the Birds dataset.
+55. Predict the number of customers in a store using time-series data.
+56. Classify different types of fish using the Fish dataset.
+57. Predict the price of a car based on its mileage.
+58. Classify different types of insects using the Insects dataset.
+59. Predict the number of sales using historical sales data.
+60. Classify different types of trees using the Trees dataset.
+61. Predict the price of a house based on its location.
+62. Classify different types of flowers using the Flowers dataset.
+63. Predict the number of customers in a restaurant using time-series data.
+64. Classify different types of fruits using the Fruits dataset.
+65. Predict the price of a product based on its features.
+66. Classify different types of vegetables using the Vegetables dataset.
+67. Predict the number of visitors to a museum using time-series data.
+68. Classify different types of animals using the Animals dataset.
+69. Predict the price of a car based on its features.
+70. Classify different types of birds using the Birds dataset.
+71. Predict the number of customers in a store using time-series data.
+72. Classify different types of fish using the Fish dataset.
+73. Predict the price of a house based on its size.
+74. Classify different types of insects using the Insects dataset.
+75. Predict the number of sales using historical sales data.
+76. Classify different types of trees using the Trees dataset.
+77. Predict the price of a product based on its features.
+78. Classify different types of flowers using the Flowers dataset.
+79. Predict the number of customers in a restaurant using time-series data.
+80. Classify different types of fruits using the Fruits dataset.
+81. Predict the price of a car based on its mileage.
+82. Classify different types of vegetables using the Vegetables dataset.
+83. Predict the number of visitors to a museum using time-series data.
+84. Classify different types of animals using the Animals dataset.
+85. Predict the price of a house based on its age.
+86. Classify different types of birds using the Birds dataset.
+87. Predict the number of customers in a store using time-series data.
+88. Classify different types of fish using the Fish dataset.
+89. Predict the price of a product based on its features.
+90. Classify different types of insects using the Insects dataset.
+91. Predict the number of sales using historical sales data.
+92. Classify different types of trees using the Trees dataset.
+93. Predict the price of a car based on its features.
+94. Classify different types of flowers using the Flowers dataset.
+95. Predict the number of customers in a restaurant using time-series data.
+96. Classify different types of fruits using the Fruits dataset.
+97. Predict the price of a house based on its location.
+98. Classify different types of vegetables using the Vegetables dataset.
+99. Predict the number of visitors to a museum using time-series data.
+100. Classify different types of animals using the Animals dataset.

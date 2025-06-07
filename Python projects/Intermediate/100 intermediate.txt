@@ -1,0 +1,200 @@
+Intermediate (100 Projects)
+Build a web scraper using BeautifulSoup.
+
+Create a command-line task manager.
+
+Write a program to send emails using Python.
+
+Build a URL shortener.
+
+Create a program to download YouTube videos.
+
+Write a program to extract text from PDFs.
+
+Build a program to automate Excel tasks.
+
+Create a program to generate QR codes.
+
+Write a program to scrape Twitter data.
+
+Build a program to automate Google searches.
+
+Create a program to generate word clouds.
+
+Write a program to analyze CSV files.
+
+Build a program to automate file renaming.
+
+Create a program to generate random passwords.
+
+Write a program to automate Instagram posts.
+
+Build a program to scrape Amazon product data.
+
+Create a program to automate WhatsApp messages.
+
+Write a program to analyze JSON data.
+
+Build a program to automate LinkedIn connections.
+
+Create a program to generate barcodes.
+
+Write a program to analyze XML data.
+
+Build a program to automate Facebook posts.
+
+Create a program to generate CAPTCHA images.
+
+Write a program to analyze HTML data.
+
+Build a program to automate Reddit posts.
+
+Create a program to generate ASCII art.
+
+Write a program to analyze SQL data.
+
+Build a program to automate GitHub commits.
+
+Create a program to generate fractal images.
+
+Write a program to analyze NoSQL data.
+
+Build a program to automate Slack messages.
+
+Create a program to generate heatmaps.
+
+Write a program to analyze time series data.
+
+Build a program to automate Zoom meetings.
+
+Create a program to generate network graphs.
+
+Write a program to analyze geospatial data.
+
+Build a program to automate Trello tasks.
+
+Create a program to generate scatter plots.
+
+Write a program to analyze financial data.
+
+Build a program to automate Jira tasks.
+
+Create a program to generate bar charts.
+
+Write a program to analyze social media data.
+
+Build a program to automate Asana tasks.
+
+Create a program to generate pie charts.
+
+Write a program to analyze e-commerce data.
+
+Build a program to automate Airtable tasks.
+
+Create a program to generate line charts.
+
+Write a program to analyze healthcare data.
+
+Build a program to automate Notion tasks.
+
+Create a program to generate histograms.
+
+Write a program to analyze education data.
+
+Build a program to automate ClickUp tasks.
+
+Create a program to generate box plots.
+
+Write a program to analyze sports data.
+
+Build a program to automate Monday.com tasks.
+
+Create a program to generate violin plots.
+
+Write a program to analyze weather data.
+
+Build a program to automate Wrike tasks.
+
+Create a program to generate pair plots.
+
+Write a program to analyze stock market data.
+
+Build a program to automate Basecamp tasks.
+
+Create a program to generate correlation plots.
+
+Write a program to analyze cryptocurrency data.
+
+Build a program to automate Smartsheet tasks.
+
+Create a program to generate 3D plots.
+
+Write a program to analyze election data.
+
+Build a program to automate Teamwork tasks.
+
+Create a program to generate contour plots.
+
+Write a program to analyze census data.
+
+Build a program to automate Podio tasks.
+
+Create a program to generate surface plots.
+
+Write a program to analyze crime data.
+
+Build a program to automate Zoho Projects tasks.
+
+Create a program to generate polar plots.
+
+Write a program to analyze traffic data.
+
+Build a program to automate LiquidPlanner tasks.
+
+Create a program to generate radar charts.
+
+Write a program to analyze energy data.
+
+Build a program to automate ProofHub tasks.
+
+Create a program to generate bubble charts.
+
+Write a program to analyze environmental data.
+
+Build a program to automate Scoro tasks.
+
+Create a program to generate area charts.
+
+Write a program to analyze transportation data.
+
+Build a program to automate Paymo tasks.
+
+Create a program to generate stacked bar charts.
+
+Write a program to analyze retail data.
+
+Build a program to automate Hubstaff tasks.
+
+Create a program to generate stacked area charts.
+
+Write a program to analyze manufacturing data.
+
+Build a program to automate Time Doctor tasks.
+
+Create a program to generate waterfall charts.
+
+Write a program to analyze agriculture data.
+
+Build a program to automate Toggl tasks.
+
+Create a program to generate funnel charts.
+
+Write a program to analyze tourism data.
+
+Build a program to automate RescueTime tasks.
+
+Create a program to generate Gantt charts.
+
+Write a program to analyze entertainment data.
+
+Build a program to automate Clockify tasks.

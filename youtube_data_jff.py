@@ -9,7 +9,7 @@ def convert_to_numeric(value):
     else:
         return float(value)
     
-df = pd.read_csv('C:/Users/DEKATECH/Steph_pro/youtube_data_united-kingdom.csv')
+df = pd.read_csv('.../youtube_data_united-kingdom.csv')
 column_translations = {
     'NOMBRE': 'Channel Name',
     'SEGUIDORES': 'Total Subscribers',
@@ -29,4 +29,4 @@ df['Invite to Campaign'] = "View Profile"
 df['Engagement Rate'] = df['Engagement Rate'].str.replace('%', '')
 df['Engagement Rate'] = pd.to_numeric(df['Engagement Rate'], errors='coerce')
 df.drop(columns=['Influence Topic', 'Save'], inplace=True)
-df.to_csv('C:/Users/DEKATECH/Steph_pro/cleanedjff_youtube_data_united-kingdom.csv', index=False)
+df.to_csv('.../cleanedjff_youtube_data_united-kingdom.csv', index=False)
