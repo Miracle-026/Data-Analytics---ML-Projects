@@ -3,7 +3,7 @@ import pandas as pd
 from googleapiclient.discovery import build
 
 # Replace with your actual API key
-API_KEY = "AIzaSyCYYkCFErPQccZJ5AXuCXjh54Ji4_5wUck"  # Your API key
+API_KEY = "YOUR_API_KEY"  # Your API key
 API_VERSION = 'v3'
 
 # Initialize the YouTube API client
