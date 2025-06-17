@@ -1,2 +1,1 @@
-# Data Analytics & ML Projects
-
+My Tech Projects (ML, Data analysis, Python etc)
